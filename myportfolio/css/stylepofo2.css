@@ -1,0 +1,21 @@
+.image-container {
+    display: flex;
+    justify-content:space-evenly;
+    margin: 20px 0;
+  }
+  .image-container img {
+    width:270px;
+    height:500px;
+  }
+  .logo{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 200px;
+  }
+  .logo img{
+     width: 250px;
+     height: 250px;
+     border-radius: 10%;
+  
+  }
